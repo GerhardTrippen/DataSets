@@ -1,2 +1,2 @@
 # Data Sets
-Data Ses for some courses
+Data Sets for some courses
