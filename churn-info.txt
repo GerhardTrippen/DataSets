@@ -1,0 +1,26 @@
+Churn data set. Blake, C.L. & Merz, C.J. UCI Repository of machine learning databases [kdd.ics.uci.edu/]. Irvine, CA: University of California, Department of Information and Computer Science, 1998.
+
+3333 customer records and 20 predictors along with the target variable, churn, an indication of whether that customer churned (left the company) or not.
+
+The variables are as follows:
+•  State: Categorical, for the 50 states and the District of Columbia.
+•  Account length: Integer-valued, how long account has been active.
+•  Area code: Categorical
+•  Phone number: Essentially a surrogate for customer ID.
+•  International plan: Dichotomous categorical, yes or no.
+•  Voice mail plan: Dichotomous categorical, yes or no.
+•  Number of voice mail messages: Integer-valued.
+•  Total day minutes: Continuous, minutes customer used service during the day.
+•  Total day calls: Integer-valued.
+•  Total day charge: Continuous, perhaps based on above two variables.
+•  Total eve minutes: Continuous, minutes customer used service during the evening.
+•  Total eve calls: Integer-valued.
+•  Total eve charge: Continuous, perhaps based on above two variables.
+•  Total night minutes: Continuous, minutes customer used service during the night.
+•  Total night calls: Integer-valued.
+•  Total night charge: Continuous, perhaps based on above two variables.
+•  Total international minutes: Continuous, minutes customer used service to make international calls.
+•  Total international calls: Integer-valued.
+•  Total international charge: Continuous, perhaps based on above two variables.
+•  Number of calls to customer service: Integer-valued.
+•  Churn: Target. Indicator of whether the customer has left the company (true or false).
