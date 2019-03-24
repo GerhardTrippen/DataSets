@@ -1,0 +1,7 @@
+This file contains the results of 150 surveys in different areas across the country.
+For four particular questions, the percentage of respondents who answered 'yes' is given.
+In these areas a food delivery service was offered and the acceptance was measured as poor, fair or good.
+
+This dataset is based on the well known iris dataset.
+The predictors have been rescaled and the labels have been changed as stated above.
+
